@@ -13,6 +13,6 @@ Here is a list of animations that are planned to be added:
 
 ### 1. Head Tracking Animation
 
-1. **Idea submitted by:** [/u/DigitalSignalX](https://www.reddit.com/user/DigitalSignalX)
+1. **Idea submitted by:** [/u/DigitalSignalX](https://www.reddit.com/r/PersonOfInterest/comments/356zeu/the_poi_animations/cr28oo7)
 2. **Reference:** Openning credits where it shows the main characters as either relavent or irrelavent.
 3. **Libraries:** [d3.js](http://d3js.org/) & [tracking.js](http://trackingjs.com/)

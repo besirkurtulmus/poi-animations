@@ -7,7 +7,7 @@ Please feel free to submit your ideas either as a PM to [/u/besirk](https://www.
 **Disclaimer:** I do not claim ownership of the trademark Person of Interest™.
 All rights to Person of Interest™ is owned by Bad Robot Productions™.
 
-### 1. Simple Head Tracking Animation
+### 1. [Simple Head Tracking Animation](http://besir.kurtulm.us/poi-animations/001-simple-head-tracking-animation/)
 
 1. **Idea submitted by:** [/u/DigitalSignalX](https://www.reddit.com/r/PersonOfInterest/comments/356zeu/the_poi_animations/cr28oo7)
 2. **Reference:** Openning credits where it shows the main characters as either relavent or irrelavent.

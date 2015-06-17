@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Head Tracking Animation - POI Animations</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+  <script src="js/tracking-min.js"></script>
+  <script src="js/face-min.js"></script>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+            <h1 class="text-center">POI Simple Head Tracking Animation</h1>
+            <p class="text-center">The Machine is always watching.</p>
+    </div>
+    <div class="row">
+        <div class="frame">
+            <div class="video-container well">
+                <video id="video" width="320" height="240" preload autoplay loop muted></video>
+                <canvas id="canvas" width="320" height="240"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="footer">
+            <p class="text-center">
+                Developed by A. Besir Kurtulmus @ 2015
+            </p>
+        </div>
+    </div>
+</div>
+</body>
+<script src="js/script.js"></script>
+</html>
